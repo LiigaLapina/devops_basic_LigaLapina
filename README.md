@@ -1,2 +1,2 @@
 # DevOps repozitorijs
-<Liga Lapina> DevOps repozitorijs pamati iesācējiem
+Liga Lapina DevOps repozitorijs pamati iesācējiem
